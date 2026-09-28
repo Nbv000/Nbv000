@@ -1,6 +1,6 @@
 # Nbv000
 
-Self-taught systems engineer. Reverse engineering, low-level Linux, streaming data pipelines.
+Reverse engineering, low-level Linux, streaming data pipelines.
 
 Based in Russia. Available for project work and one-off engagements.
 
